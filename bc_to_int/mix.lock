@@ -1,0 +1,3 @@
+%{
+  "iteraptor": {:hex, :iteraptor, "1.14.0", "a6a23ec9ac1c25f3065138fd87f7f739f9b5a7e08fe915cfefcd155105445167", [:mix], [], "hexpm", "88d7a8bb7829a0faa8f99e15b12a8082403f07236d0911e55ad9245b306fd558"},
+}
